@@ -1,0 +1,5 @@
+/home/ibrahim/Desktop/Cpp/CircularBuffer/build/CMakeFiles/edit_cache.dir
+/home/ibrahim/Desktop/Cpp/CircularBuffer/build/CMakeFiles/rebuild_cache.dir
+/home/ibrahim/Desktop/Cpp/CircularBuffer/build/Test/CMakeFiles/CircularBufferTest.dir
+/home/ibrahim/Desktop/Cpp/CircularBuffer/build/Test/CMakeFiles/edit_cache.dir
+/home/ibrahim/Desktop/Cpp/CircularBuffer/build/Test/CMakeFiles/rebuild_cache.dir
